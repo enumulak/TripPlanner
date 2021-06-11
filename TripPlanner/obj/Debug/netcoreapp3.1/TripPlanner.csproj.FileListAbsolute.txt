@@ -1,0 +1,13 @@
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.exe
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.deps.json
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.runtimeconfig.json
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.runtimeconfig.dev.json
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.dll
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\bin\Debug\netcoreapp3.1\TripPlanner.pdb
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.csprojAssemblyReference.cache
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.AssemblyInfoInputs.cache
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.AssemblyInfo.cs
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.csproj.CoreCompileInputs.cache
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.dll
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.pdb
+F:\Repos\DotNetCore\TripPlanner\TripPlanner\obj\Debug\netcoreapp3.1\TripPlanner.genruntimeconfig.cache
